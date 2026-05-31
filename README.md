@@ -29,4 +29,4 @@ Features and integrations are being implemented step by step as part of a learni
 
 ## Purpose
 
-This project is mainly for learning and hands-on practice of modern observability tools used in real-world production systems.
+This project is mainly for learning and hands-on practice of modern observability tools used in real-world production systems...
