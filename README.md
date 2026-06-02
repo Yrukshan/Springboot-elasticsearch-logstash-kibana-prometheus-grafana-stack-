@@ -1,6 +1,11 @@
 # Springboot-elasticsearch-logstash-kibana-prometheus-grafana-stack-
 Spring Boot application with Elasticsearch, Logstash, Kibana, Prometheus, and Grafana for centralized logging, monitoring, and observability.
 
+## Project Status
+
+This project is currently in development (ongoing).
+Features and integrations are being implemented step by step as part of a learning and research process.
+
 ## Project Description
 
 This project is a Spring Boot Observability and Monitoring Stack designed to learn and implement modern backend system monitoring, logging, and performance tracking techniques.
@@ -13,11 +18,6 @@ This project is a Spring Boot Observability and Monitoring Stack designed to lea
 4. Kibana – Log visualization and analysis
 5. Prometheus – Metrics collection and monitoring
 6. Grafana – Dashboard creation and system visualization
-
-## Project Status
-
-This project is currently in development (ongoing).
-Features and integrations are being implemented step by step as part of a learning and research process.
 
 ## Goals
 
